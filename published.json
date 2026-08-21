@@ -5,28 +5,84 @@
       "filename": "IMG_1134.jpeg",
       "published_at": "2026-08-12T09:20:08.747042+00:00",
       "instagram_media_id": "18175016080384400",
-      "permalink": null
+      "permalink": null,
+      "chosen_variant": 0,
+      "chosen_caption": "",
+      "chosen_hashtags": [],
+      "rejected_captions": [],
+      "photo_description": "",
+      "explicit_choice": false,
+      "clean_variant": 0,
+      "exemplar_count": 0
     },
     {
       "media_item_id": "1GpMr45x1RgP1vOMn83Yw93VUxHv8kj0t",
       "filename": "IMG_2325.jpeg",
       "published_at": "2026-08-15T08:07:25.160701+00:00",
       "instagram_media_id": "18110017606996529",
-      "permalink": null
+      "permalink": null,
+      "chosen_variant": 0,
+      "chosen_caption": "",
+      "chosen_hashtags": [],
+      "rejected_captions": [],
+      "photo_description": "",
+      "explicit_choice": false,
+      "clean_variant": 0,
+      "exemplar_count": 0
     },
     {
       "media_item_id": "1QwaWQ2DMcnKsz5YsdrVQ-m5SasFt-gEt",
       "filename": "IMG_6067.HEIC",
       "published_at": "2026-08-19T14:51:25.878143+00:00",
       "instagram_media_id": "18108599984033191",
-      "permalink": "https://www.instagram.com/p/DcOcZCVlC7T/"
+      "permalink": "https://www.instagram.com/p/DcOcZCVlC7T/",
+      "chosen_variant": 0,
+      "chosen_caption": "",
+      "chosen_hashtags": [],
+      "rejected_captions": [],
+      "photo_description": "",
+      "explicit_choice": false,
+      "clean_variant": 0,
+      "exemplar_count": 0
     },
     {
       "media_item_id": "1nOdoumP7PXDKmybBwL0s4byO-hjFLLtF",
       "filename": "IMG_6002.HEIC",
       "published_at": "2026-08-20T04:53:52.986364+00:00",
       "instagram_media_id": "18076348727348609",
-      "permalink": "https://www.instagram.com/p/DcP80SZkcUQ/"
+      "permalink": "https://www.instagram.com/p/DcP80SZkcUQ/",
+      "chosen_variant": 0,
+      "chosen_caption": "",
+      "chosen_hashtags": [],
+      "rejected_captions": [],
+      "photo_description": "",
+      "explicit_choice": false,
+      "clean_variant": 0,
+      "exemplar_count": 0
+    },
+    {
+      "media_item_id": "1F7vc6O8qL6LZOd51achwHVpnYmy-Mia5",
+      "filename": "IMG_5760.HEIC",
+      "published_at": "2026-08-21T07:18:31.513909+00:00",
+      "instagram_media_id": "18089653958440413",
+      "permalink": "https://www.instagram.com/p/DcSyJgZipAO/",
+      "chosen_variant": 1,
+      "chosen_caption": "舌尖忘記收回去了。\n反正也沒有人在看。\n\nForgot to put the tongue back.\nNot like anyone is paying attention anyway.",
+      "chosen_hashtags": [
+        "#貓咪",
+        "#catsofinstagram",
+        "#三花貓",
+        "#貓咪日常",
+        "#吐舌"
+      ],
+      "rejected_captions": [
+        "人類設計的三角形，看久了有點催眠。\n手不知不覺就交疊在一起了。\n\nStaring at these triangles makes one sleepy.\nPaws crossed themselves without permission.",
+        "左上角那個黑點，到底是灰塵還是蚊子。\n有人知道嗎。\n\nIs that black speck on the wall dust or a bug.\nAny guesses."
+      ],
+      "photo_description": "一隻三色貓趴在印有幾何三角形圖案的椅墊上，前肢呈現交叉的姿勢。牠睜大雙眼朝左上方看去，嘴巴微張並露出一點粉紅色的舌尖。背景是單純的藍灰色牆面，整體光線均勻充足。",
+      "explicit_choice": true,
+      "clean_variant": 0,
+      "exemplar_count": 0
     }
   ]
 }
