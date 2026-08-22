@@ -83,6 +83,30 @@
       "explicit_choice": true,
       "clean_variant": 0,
       "exemplar_count": 0
+    },
+    {
+      "media_item_id": "1UDmRozTwX_2uTcv94l4B2TZbpF1O8GwF",
+      "filename": "IMG_6008.HEIC",
+      "published_at": "2026-08-22T04:59:56.457669+00:00",
+      "instagram_media_id": "18096378320633670",
+      "permalink": "https://www.instagram.com/p/DcVHFQxm9K7/",
+      "chosen_variant": 3,
+      "chosen_caption": "世界歪著看好像比較合理。\n要不要一起歪著頭試試。\n\nMaybe the world makes more sense tilted.\nWant to tilt your head and see?",
+      "chosen_hashtags": [
+        "#貓咪",
+        "#catsofinstagram",
+        "#歪頭殺",
+        "#橘白",
+        "#meow"
+      ],
+      "rejected_captions": [
+        "紫色格子有點硬。\n不過躺久了也就這樣。\n\nThis purple grid is a bit stiff.\nBut it feels okay after lying here for a while.",
+        "鏡頭貼得太近了。\n連鼻頭上的黑點都看得清清楚楚。\n\nThe camera is a bit too close.\nEven the spots on the nose are visible now."
+      ],
+      "photo_description": "一隻橘白相間的貓咪側躺在紫色的網格紋路地墊上，頭部向右側傾斜，雙眼睜圓注視著鏡頭。貓咪的鬍鬚和臉部毛髮細節清晰，粉紅色的鼻頭上有少許黑斑。背景是稍微模糊的室內房間，可以看到粉紅色的寵物提籠、椅腳和櫃子。",
+      "explicit_choice": true,
+      "clean_variant": 0,
+      "exemplar_count": 0
     }
   ]
 }
