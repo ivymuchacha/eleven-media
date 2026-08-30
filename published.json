@@ -131,6 +131,29 @@
       "explicit_choice": true,
       "clean_variant": 0,
       "exemplar_count": 0
+    },
+    {
+      "media_item_id": "15RC4eibeUMN65QM7lT3tpH7_eCDDdxTb",
+      "filename": "IMG_6381.HEIC",
+      "published_at": "2026-08-30T01:24:19.129562+00:00",
+      "instagram_media_id": "18114683354059087",
+      "permalink": "https://www.instagram.com/p/DcpUw99jdC5/",
+      "chosen_variant": 1,
+      "chosen_caption": "週日宜躺躺。\n\nLying down is enough for today.",
+      "chosen_hashtags": [
+        "#貓咪",
+        "#catsofinstagram",
+        "#三花貓",
+        "#貓咪日常"
+      ],
+      "rejected_captions": [
+        "磁磚上有一點影子的輪廓。\n躺在這裡看，世界好像比較安靜。\n\nJust watching the faint shadows on the tiles.\nThe world seems quieter from down here.",
+        "大理石地板的溫度很剛好。\n不一起躺下嗎？\n\nThe marble floor is at the perfect temperature.\nWhy are you still standing?"
+      ],
+      "photo_description": "一隻三花色斑紋的貓咪側躺並伸展身體在淺色的大理石磁磚地板上。貓咪的頭部朝向左上方且背對鏡頭，呈現放鬆的睡姿。室內光線溫和均勻，磁磚表面映照出微弱的光影與貓咪輪廓。",
+      "explicit_choice": true,
+      "clean_variant": 0,
+      "exemplar_count": 0
     }
   ]
 }
