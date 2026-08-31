@@ -154,6 +154,33 @@
       "explicit_choice": true,
       "clean_variant": 0,
       "exemplar_count": 0
+    },
+    {
+      "media_item_id": "1QzMTatpajDpSnJySzUVA0cWOpP8Xc5rd",
+      "filename": "IMG_6324.HEIC",
+      "published_at": "2026-08-31T23:31:22.172584+00:00",
+      "instagram_media_id": "18439938850131951",
+      "permalink": "https://www.instagram.com/p/DcuRcPOHNL8/",
+      "chosen_variant": 6,
+      "chosen_caption": "打哈欠會傳染。\n\n螢幕對面的，現在嘴巴開開的嗎？\n\nYawns are contagious.\n\nIs your mouth open right now?",
+      "chosen_hashtags": [
+        "#貓咪",
+        "#catsofinstagram",
+        "#三花貓十一",
+        "#日常隨筆",
+        "#yawningcat"
+      ],
+      "rejected_captions": [
+        "手伸直，交叉疊好。\n哈欠打完，今天的大事就算忙完了。\n\nPaws crossed.\nYawning is the most productive thing to do today.",
+        "桌上的雜物堆了幾天都沒動過。\n人類的生活，常常停滯在奇怪的地方。\n\nThose things on the table haven't moved for days.\nHumans have an odd way of leaving things behind.",
+        "沙發軟得剛好。\n嘴巴張到最大，能把下午的睡意都吐出來嗎。\n\nThe sofa is just soft enough.\nIf the yawn is wide enough, will the afternoon sleepiness go away.",
+        "嘴巴張得太大，風就自己跑進來了。\n\n沙發很軟，今天到此為止。\n\nYawned too wide and swallowed some air.\n\nDone for the day on this couch.",
+        "雙腳交叉放好，算是給沙發一點尊重。\n\n那邊的雜物堆，看起來還是很礙眼。\n\nPaws crossed to show some respect to the sofa.\n\nThat messy side table is still an eyesore."
+      ],
+      "photo_description": "一隻三花貓趴在米灰色的沙發上，雙前肢向前伸直交叉，正張大嘴巴打哈欠並露出舌頭與牙齒。沙發左側有一個淺灰色大抱枕遮擋部分視線，背景可見木製扶手椅以及放有水瓶、筆等雜物的邊桌。室內光線柔和，焦點集中在貓咪面部。",
+      "explicit_choice": true,
+      "clean_variant": 0,
+      "exemplar_count": 0
     }
   ]
 }
