@@ -243,6 +243,32 @@
       "explicit_choice": true,
       "clean_variant": 0,
       "exemplar_count": 0
+    },
+    {
+      "media_item_id": "1de7ybvLBmbdotPr3cc7HsmwC7gevjLMj",
+      "filename": "IMG_6353.HEIC",
+      "published_at": "2026-09-16T16:13:52.458028+00:00",
+      "instagram_media_id": "18114096986095175",
+      "permalink": "https://www.instagram.com/p/DdWsFNdGwLN/",
+      "chosen_variant": 6,
+      "chosen_caption": "手收埋在肚子下面。\n這樣盯著看，能看出什麼嗎。\n\nPaws are neatly tucked away.\nStaring like that, what are you trying to find?",
+      "chosen_hashtags": [
+        "#catsofinstagram",
+        "#三花貓",
+        "#貓咪日常",
+        "#手收收好"
+      ],
+      "rejected_captions": [
+        "地板擦得夠乾淨。\n倒影裡的那隻貓，看起來也挺閒的。\n\nThe floor is clean enough to see a reflection.\nThe cat down there looks just as jobless as this one.",
+        "手機鏡頭亮著。\n明明什麼都沒做，那個人到底在拍什麼。\n\nThe phone lens is shining.\nWhy take photos when nothing is happening.",
+        "手腳都收好了。\n今天地板的溫度，適合就地躺下嗎？\n\nPaws are neatly tucked.\nIs the floor temperature right for a nap today?",
+        "地板滿涼的。\n倒影裡的那隻貓，姿勢倒是挺標準。\n\nThe floor is nice and cool.\nThat cat in the reflection has perfect posture.",
+        "鏡頭又對著這邊。\n黃色的光亮著，身後那些衣服不知道整理好了沒。\n\nThe camera is pointing here again.\nUnder this warm light, those clothes in the back still look messy."
+      ],
+      "photo_description": "一隻三花貓趴在光滑的地板上，雙前腳往內收攏，地板上映照出貓咪的倒影。貓咪直視著鏡頭，眼神專注。背景一側有模糊的衣架與包包，光線呈現溫暖的黃色調。",
+      "explicit_choice": true,
+      "clean_variant": 0,
+      "exemplar_count": 0
     }
   ]
 }
