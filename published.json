@@ -298,6 +298,33 @@
       "explicit_choice": true,
       "clean_variant": 0,
       "exemplar_count": 0
+    },
+    {
+      "media_item_id": "1gpS4mDOSwwkEG1XIr4dXWFDtcw2jh-sv",
+      "filename": "IMG_5822.HEIC",
+      "published_at": "2026-10-07T02:47:16.117790+00:00",
+      "instagram_media_id": "17868115437659738",
+      "permalink": "https://www.instagram.com/p/DeLUdrDm-b4/",
+      "chosen_variant": 5,
+      "chosen_caption": "洗好的衣服果然比較適合當墊子。\n\nFresh laundry makes the best cushion.\nTheir storage system makes no sense anyway.",
+      "chosen_hashtags": [
+        "#貓",
+        "#catsofinstagram",
+        "#摺衣服",
+        "#三花",
+        "#laundryday"
+      ],
+      "rejected_captions": [
+        "衣服堆的高度剛剛好。\n適合在這裡發呆到天黑。\n\nThis pile of clothes is just the right height.\nPerfect for staring into space until dark.",
+        "角落那疊衣服很久沒動了。\n既然沒人要整理，就先收下了。\n\nThose clothes in the corner haven't moved in days.\nSince nobody is cleaning them up, they belong here now.",
+        "這疊深色衣服坐起來很暖和。\n人類今天不穿這件嗎。\n\nThis pile of dark laundry is surprisingly warm.\nAre you not wearing this today?",
+        "衣服堆的高度剛剛好。\n\nThis pile of clothes is just the right height.\nWaiting to see if that speck of light will drop.",
+        "角落好像有東西。\n\nSomething is in the corner.\nIs there anything else there besides air?"
+      ],
+      "photo_description": "一隻三花貓以坐姿端立在一疊深色衣物上，身體面向前方，頭部轉向左側並微微抬起。貓咪有著白色的胸口與前肢，頭部和背部有橘色與黑色的斑紋，正睜大眼睛注視著畫面左上方。背景光線昏暗，能看見後方的深色置物空間以及部分木製抽屜櫃。",
+      "explicit_choice": true,
+      "clean_variant": 0,
+      "exemplar_count": 0
     }
   ]
 }
