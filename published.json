@@ -390,6 +390,36 @@
       "explicit_choice": true,
       "clean_variant": 0,
       "exemplar_count": 0
+    },
+    {
+      "media_item_id": "1L10YulqwC7k0NeQBp1DCYVryYTZRgB_W",
+      "filename": "IMG_6029.JPG",
+      "published_at": "2026-10-27T15:19:29.865150+00:00",
+      "instagram_media_id": "18144909931587685",
+      "permalink": "https://www.instagram.com/p/DfAKcoQG3EM/",
+      "chosen_variant": 1,
+      "chosen_caption": "看我這邊 🖤💗。\n\nLook at you, NOW LOOK AT ME 🖤💗",
+      "chosen_hashtags": [
+        "#貓咪",
+        "#catsofinstagram",
+        "#三花貓",
+        "#三花",
+        "#calicocat"
+      ],
+      "rejected_captions": [
+        "角落的雜物堆得挺有秩序。趴著看看，時間就過去了。\n\nThe clutter in the corner is piled nicely. Time just passes while lying here.",
+        "地墊的溫度剛剛好。這個時間適合拿來發呆吧？\n\nThe mat feels nice and warm. Is this time of day good for zoning out?",
+        "地墊的粉紅色有點亮。趴著看牆角，時間過得比較慢。\n\nThe pink mat is a bit bright. Watching the wall corner makes time go slower.",
+        "牆角堆著沒收拾的雜物。光線暖暖的，適合在這裡待著。\n\nUnsorted things piled in the corner. Warm light makes this a decent spot.",
+        "趴在粉紅墊子上看前面。角落那個箱子到底放了多久？\n\nLying on the pink mat looking ahead. How long has that box in the corner been there?",
+        "趴在粉紅色的地墊上，視線停在角落那個沒有搬走的箱子。\n日光有些晃眼，適合什麼都不想。\n\nLying on the pink mat, eyes fixed on that unmoved box in the corner.\nThe sunlight is a bit bright, perfect for thinking about nothing.",
+        "牆角的雜物堆很久了，人類似乎總喜歡留著用不到的東西。\n暖光照下來，地墊的溫度剛好。\n\nThe clutter in the corner has been there forever, humans love keeping useless things.\nUnder the warm light, the temperature of the mat is just right.",
+        "盯著上方發呆，順便等等看會不會有食物掉下來。\n下午這種光線，地板是不是比床上好躺。\n\nStaring at the ceiling, waiting lazily to see if any food drops down.\nWith light like this, is the floor better than the bed."
+      ],
+      "photo_description": "一隻三花貓趴伏在粉紅色的地墊上，眼睛注視著前上方。背景為室內牆面與角落雜物，整體光線呈現暖色調。",
+      "explicit_choice": true,
+      "clean_variant": 0,
+      "exemplar_count": 0
     }
   ]
 }
